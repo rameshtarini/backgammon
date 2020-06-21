@@ -1,5 +1,7 @@
 # Backgammon
 
-Grab a friend and play a full game of backgammon! You and another player will take turns rolling dice, choosing a piece to move, and how far you move it depending on your dice roll. Following the rules of backgammon, the pieces go to the desired places only if the rules allow for it. In the end, whichever player has all their pieces on the bar wins eternal bragging rights!
+Grab a friend and play a full game of backgammon! 
 
-Enjoy!
+You and another player will take turns rolling dice. After, you will choose which piece you want to move and how far you want to move it depending on your dice roll. Following the rules of backgammon, the pieces will go to the calculated places and eventually end on the bar. 
+
+In the end, whichever player has all their pieces on the bar first wins eternal bragging rights. Enjoy!
