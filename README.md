@@ -6,4 +6,4 @@ You and another player will take turns rolling dice. After, you will choose whic
 
 In the end, whichever player has all their pieces on the bar first wins eternal bragging rights. Enjoy!
 
-This game was coded leveraging Object-Oriented Programming and the header file window.h in order to utilize the gotoxy function.
+This game was coded leveraging Object-Oriented Programming and the header file windows.h (in order to utilize the gotoxy function).
